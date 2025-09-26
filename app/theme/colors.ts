@@ -1,0 +1,27 @@
+export const colors = {
+  primary: '#2196F3',
+  secondary: '#03DAC6',
+  background: '#F5F5F5',
+  surface: '#FFFFFF',
+  error: '#F44336',
+  success: '#4CAF50',
+  warning: '#FF9800',
+  text: {
+    primary: '#212121',
+    secondary: '#757575',
+    disabled: '#9E9E9E',
+    white: '#FFFFFF',
+  },
+  cardColors: [
+    { name: 'Red', value: '#F44336' },
+    { name: 'Orange', value: '#FF9800' },
+    { name: 'Yellow', value: '#FFEB3B' },
+    { name: 'Green', value: '#4CAF50' },
+    { name: 'Cyan', value: '#00BCD4' },
+    { name: 'Blue', value: '#2196F3' },
+    { name: 'Purple', value: '#9C27B0' },
+    { name: 'Pink', value: '#E91E63' },
+    { name: 'Gray', value: '#607D8B' },
+    { name: 'Black', value: '#212121' },
+  ],
+};
